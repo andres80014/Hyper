@@ -2,7 +2,7 @@ body
 {
     color: #333;
     text-align: left;
-    font-family: arial;
+    font-family: Courier;
     font-size: 16px;
 } 
 #container {
@@ -11,4 +11,8 @@ body
     text-align: left;
     border: 1px solid #ddd;
     margin: 0 auto;
+}
+
+#container h1{
+    font-size:20px;
 }
